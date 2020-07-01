@@ -1,17 +1,17 @@
 ## YUMMY PIZZA INN APP
 
-##Developer
+## Developer
 Jerry Nabango
 
-##Description
+# Description
 The application was developed to allow customers  to easily make the yummy pizza order easily without coming to the restaurants.It has reduced the cost of travelling for the customers since we offer delivery to their doorsteps at low price.Throught app the customer can choose the way7 the  would like their pizza order to  be.
 
-##Technologies used:
+## Technologies used:
 * HTML
 * css(Bootstrap & Materialize)
 * Javascript(script & jquery-3.4.1)
 
-Browsers used:
+## Browsers used:
 
 The webpage can be viewed though the following browsers.
 
