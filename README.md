@@ -14,9 +14,9 @@ The application was developed to allow customers  to easily make the yummy pizza
 ## Browsers used:
 
 The webpage can be viewed though the following browsers.
-    * Chrome
-    * Firefox
-    * Opera Mini
+  ~ Chrome
+  ~ Firefox
+  ~ Opera Mini
 
 ## Live link to site:
 https://jerrynabango.github.io/yummy-pizza./
