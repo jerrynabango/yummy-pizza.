@@ -9,12 +9,13 @@ The application was developed to allow customers  to easily make the yummy pizza
 ## Technologies used:
 * HTML
 * css(Bootstrap & Materialize)
-* Javascript(script & jquery-3.4.1)
+* Javascript(script & jquery-3.4.1
 
 ## Browsers used:
-  1.Chrome
-  2.Firefox
-  3.Opera Mini
+The webpage can be viewed though the following browsers:
+* Chrome
+* Firefox
+* Opera Mini
 
 ## Live link to site:
 https://jerrynabango.github.io/yummy-pizza./
