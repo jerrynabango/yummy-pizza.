@@ -4,7 +4,7 @@
 Jerry Nabango
 
 # Description
-The application was developed to allow customers  to easily make the yummy pizza order easily without coming to the restaurants.It has reduced the cost of travelling for the customers since we offer delivery to their doorsteps at low price.Through app the customer can choose the way he/she would like their pizza order to  be.
+The application was developed to allow customers  to easily make the yummy pizza order easily without coming to the restaurants.It has reduced the cost of travelling for the customers since we offer delivery to their doorsteps at low price.Through app the customer can choose the way he/she would like their pizza order to  be such as the toppings.
 
 ## Technologies used:
 * HTML
